@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1576977362 source:/home/efpalaciosmo/Documents/c++/numerosAleatorios/main.cpp
+	<iostream>
+	<iomanip>
+	"dados.h"
+
+1576977354 /home/efpalaciosmo/Documents/c++/numerosAleatorios/dados.h
+	<iomanip>
+
